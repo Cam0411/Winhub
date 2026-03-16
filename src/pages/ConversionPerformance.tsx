@@ -97,7 +97,7 @@ export default function ConversionPerformance() {
                   transition={{ delay: 0.5 }}
                   className="flex flex-col items-end gap-2"
                 >
-                  <span className="text-6xl font-black tracking-tighter">+145%</span>
+                  {/* <span className="text-6xl font-black tracking-tighter">+145%</span> */}
                   <span className="text-[10px] font-bold tracking-widest uppercase text-[#111]/40">Average ROI Increase</span>
                 </motion.div>
               </div>
